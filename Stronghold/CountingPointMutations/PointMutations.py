@@ -14,3 +14,4 @@ while (counter <= len(s) - 1):
 print(s)
 print(t)    
 print(HammingDistance)        
+f.close()
