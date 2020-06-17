@@ -16,7 +16,7 @@ DNAstrands = []
 currentDNA = ""
 ids = []
 list_ = []
-myfile = open("text.txt", "rt")
+myfile = open("rosalind_gc.txt", "rt")
 list_ = myfile.readlines()
 
 line_counter = 0 
